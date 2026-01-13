@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Peter</h1>
 
-<!--
-**oloyap/oloyap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Business Solutions Data Scientist & Machine Learning Engineer</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Master of Management Analytics (MMA) Student @ University of Alberta
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Actively building end-to-end projects in Data Science, Machine Learning, and Optimization.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ooloya/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  &nbsp;
+  <a href="https://ooloya.com">
+    <img src="https://img.shields.io/badge/Website-ooloya.com-black?style=for-the-badge&logo=google-chrome">
+  </a>
+</p>
+
+<p align="center">
+  📫 Contact me at: <a href="mailto:oloyapeter@gmail.com">oloyapeter@gmail.com</a>
+</p>
