@@ -23,5 +23,9 @@
 </p>
 
 <p align="center">
+  <b>Actively Seeking May 2026 Data Science & Machine Learning Internship Roles.</b>
+</p>
+
+<p align="center">
   📫 Contact me at: <a href="mailto:oloyapeter@gmail.com">oloyapeter@gmail.com</a>
 </p>
