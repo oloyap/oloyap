@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peter</h1>
 
 <p align="center">
-  <b>Business Solutions Data Scientist & Machine Learning Engineer</b>
+  <b>Business Solutions Data Scientist</b>
 </p>
 
 <p align="center">
